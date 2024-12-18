@@ -47,3 +47,8 @@ If you have any feedback, please reach out to us at gardesushant1@gmail.com
 
 #### **Contributions**
 Contributions, issues, and suggestions are welcome! Feel free to open a pull request or create an issue for any improvements.
+
+---
+
+### License
+This project is open source and available under the [MIT License](LICENSE).
